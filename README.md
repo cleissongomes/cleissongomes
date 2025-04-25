@@ -25,8 +25,8 @@ I'm a Full-Stack Developer in transition with a focus on Node.js. I'm passionate
 
 ### 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seuperfil)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cleissongomes/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:cleissongomes777@gmail.com)
 
 
 
