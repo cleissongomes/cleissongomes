@@ -1,13 +1,5 @@
 ### Hello ! My name is Cleisson Gomes 👋
 
-## 🧰 Tecnologias e Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
 
 Since the beginning of 2023, I have embarked on an exciting journey to explore the world of programming and software development. Driven by a passion for the limitless potential of technology, I decided to invest my time and effort in improving my skills and knowledge in this ever-evolving field.
 
