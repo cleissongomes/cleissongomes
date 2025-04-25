@@ -20,13 +20,14 @@ I'm a Full-Stack Developer in transition with a focus on Node.js. I'm passionate
 - 🛠️ In career transition to full-stack development.
 
 
-![Cleisson GitHub stats](https://github-readme-stats.vercel.app/api?username=cleissongomes&show_icons=true&theme=dark)<br/>
-
-
 ### 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cleissongomes/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:cleissongomes777@gmail.com)
+
+
+![Cleisson GitHub stats](https://github-readme-stats.vercel.app/api?username=cleissongomes&show_icons=true&theme=dark)<br/>
+
 
 
 
